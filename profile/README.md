@@ -4,9 +4,6 @@
 👇 **Scroll Down**
 
 ---
-
-## 🏞️ **Background Mine**
-
 ### What is Kanhub?
 
 Founded by **Jules** and **Léo**, two brothers with a passion for computer science, **Kanhub** is a dynamic portfolio showcasing their activities. It presents all their projects, with the ambition of becoming a collaborative platform, mainly focused on **web development** and **artificial intelligence**.
